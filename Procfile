@@ -1,1 +1,1 @@
-web: python start_live_monitoring.py
+worker: python start_live_monitoring.py
