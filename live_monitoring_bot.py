@@ -511,5 +511,3 @@ if __name__ == "__main__":
         logger.info("Bot leállítva felhasználó által")
     except Exception as e:
         logger.error(f"Bot futtatás hiba: {e}")
-
-￼
